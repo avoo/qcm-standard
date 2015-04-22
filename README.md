@@ -34,7 +34,7 @@ Documentation
 -------------
 
 This application integrates:
-[QcmCoreBundle](https://github.com/avoo/QcmCoreBundle) base on [SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle).
+[QcmCoreBundle](https://github.com/avoo/QcmCoreBundle) based on [SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle).
 [QcmAdminBundle](https://github.com/avoo/QcmAdminBundle) is a basic administration sample.
 [QcmPublicBundle](https://github.com/avoo/QcmPublicBundle) is a basic client sample.
 
