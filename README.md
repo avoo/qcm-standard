@@ -5,10 +5,8 @@ QcmStandardEdition
 (https://scrutinizer-ci.com/g/avoo/qcm-standard/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/avoo/SerializerTranslationBundle/?branch=master)
 [![Build Status]
 (https://scrutinizer-ci.com/g/avoo/qcm-standard/badges/build.png?b=master)](https://scrutinizer-ci.com/g/avoo/SerializerTranslationBundle/build-status/master)
-[![Latest Stable Version]
-(https://poser.pugx.org/avoo/qcm-standard/v/stable.svg)](https://packagist.org/packages/avoo/serializer-translation-bundle)
-[![License]
-(https://poser.pugx.org/avoo/qcm-standard/license.svg)](https://packagist.org/packages/avoo/serializer-translation-bundle)
+[![Latest Stable Version](https://poser.pugx.org/avoo/qcm-standard-edition/v/stable)](https://packagist.org/packages/avoo/qcm-standard-edition)
+[![License](https://poser.pugx.org/avoo/qcm-standard-edition/license)](https://packagist.org/packages/avoo/qcm-standard-edition)
 
 This is a full fonctionnal QCM application based on Symfony 2 and Sylius
 
