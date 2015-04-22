@@ -1,10 +1,9 @@
 QcmStandardEdition
 ===========================
 
-[![Scrutinizer Code Quality]
-(https://scrutinizer-ci.com/g/avoo/qcm-standard/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/avoo/SerializerTranslationBundle/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/avoo/qcm-standard/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/avoo/qcm-standard/?branch=master)
 [![Build Status]
-(https://scrutinizer-ci.com/g/avoo/qcm-standard/badges/build.png?b=master)](https://scrutinizer-ci.com/g/avoo/SerializerTranslationBundle/build-status/master)
+(https://scrutinizer-ci.com/g/avoo/qcm-standard/badges/build.png?b=master)](https://scrutinizer-ci.com/g/avoo/qcm-standard/build-status/master)
 [![Latest Stable Version](https://poser.pugx.org/avoo/qcm-standard-edition/v/stable)](https://packagist.org/packages/avoo/qcm-standard-edition)
 [![License](https://poser.pugx.org/avoo/qcm-standard-edition/license)](https://packagist.org/packages/avoo/qcm-standard-edition)
 
