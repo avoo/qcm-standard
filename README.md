@@ -15,8 +15,19 @@ This is a full fonctionnal QCM application based on Symfony 2 and Sylius
 Installation with composer
 --------------------------
 
-Use `composer create-project avoo/qcm-standard-edition path/`
-In yout project repertory `cd path/` run the installer `php app/console qcm:install` and follow the instructions.
+Use:
+
+``` shell
+composer create-project avoo/qcm-standard-edition path/
+```
+
+In yout project repertory `cd path/` run the installer
+
+``` shell
+php app/console qcm:install
+```
+
+and follow the instructions.
 
 
 Documentation
