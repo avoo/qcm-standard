@@ -1,0 +1,11 @@
+qcm_core:
+    prefix:   /
+    resource: "@QcmCoreBundle/Resources/config/routing.yml"
+
+qcm_admin:
+    resource: "@QcmAdminBundle/Resources/config/routing.yml"
+    prefix:   /admin
+
+qcm_public:
+    resource: "@QcmPublicBundle/Resources/config/routing.yml"
+    prefix:   /

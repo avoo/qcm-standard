@@ -1,0 +1,38 @@
+security:
+    encoders:
+        Qcm\Component\User\Model\UserInterface: sha512
+
+    role_hierarchy:
+        ROLE_ADMIN: ROLE_USER
+
+    providers:
+        qcm_corebundle:
+            id: qcm_core.user_provider.username
+
+    firewalls:
+        dev:
+            pattern: ^/(_(profiler|wdt)|css|images|js)/
+            security: false
+
+        login_firewall:
+            pattern:    ^/security/login$
+            anonymous:  ~
+
+        secured_area:
+            pattern:    ^/
+            anonymous:  ~
+            form_login:
+                provider:            qcm_corebundle
+                login_path:          qcm_core_security_login
+                check_path:          qcm_core_security_login_check
+                remember_me:         true
+                default_target_path: qcm_public_homepage
+            remember_me:
+                key:         "%secret%"
+            logout:
+                path:   qcm_core_security_logout
+
+    access_control:
+        - { path: "^/admin", roles: ROLE_ADMIN }
+        - { path: "^/security/login", roles: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: "^/", roles: ROLE_USER }
