@@ -4,20 +4,20 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6baf451e70774a62da2a8067cadb9a57",
+    "hash": "202d7672c583d45331ccf29f50e5b7ee",
     "packages": [
         {
             "name": "avoo/qcm-admin-bundle",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/QcmAdminBundle.git",
-                "reference": "9b3f14fc96fa128111af67c185db32f64312418c"
+                "reference": "de6be9be343db8299b1c73e660f7e2240b5163af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/QcmAdminBundle/zipball/9b3f14fc96fa128111af67c185db32f64312418c",
-                "reference": "9b3f14fc96fa128111af67c185db32f64312418c",
+                "url": "https://api.github.com/repos/avoo/QcmAdminBundle/zipball/de6be9be343db8299b1c73e660f7e2240b5163af",
+                "reference": "de6be9be343db8299b1c73e660f7e2240b5163af",
                 "shasum": ""
             },
             "require": {
@@ -50,7 +50,7 @@
                 }
             ],
             "description": "QCM Admin bundle for Symfony2",
-            "time": "2015-04-22 10:04:03"
+            "time": "2015-04-23 13:54:15"
         },
         {
             "name": "avoo/qcm-components",
@@ -145,16 +145,16 @@
         },
         {
             "name": "avoo/qcm-public-bundle",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/QcmPublicBundle.git",
-                "reference": "71b1af050e62fb7203a1affadc1c705eab675baa"
+                "reference": "174a9a086b15e8378f953132b187ee1b8f709a90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/QcmPublicBundle/zipball/71b1af050e62fb7203a1affadc1c705eab675baa",
-                "reference": "71b1af050e62fb7203a1affadc1c705eab675baa",
+                "url": "https://api.github.com/repos/avoo/QcmPublicBundle/zipball/174a9a086b15e8378f953132b187ee1b8f709a90",
+                "reference": "174a9a086b15e8378f953132b187ee1b8f709a90",
                 "shasum": ""
             },
             "require": {
@@ -186,7 +186,7 @@
                 }
             ],
             "description": "QCM Public bundle for Symfony2",
-            "time": "2015-04-22 10:04:30"
+            "time": "2015-04-23 13:55:01"
         },
         {
             "name": "beberlei/DoctrineExtensions",
