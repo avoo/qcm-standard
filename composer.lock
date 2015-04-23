@@ -98,16 +98,16 @@
         },
         {
             "name": "avoo/qcm-core-bundle",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/QcmCoreBundle.git",
-                "reference": "da569dd903c8f40b45ca0dae046661c906005eaf"
+                "reference": "d28949b396732479c83bc5df60ad961444d3e60e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/QcmCoreBundle/zipball/da569dd903c8f40b45ca0dae046661c906005eaf",
-                "reference": "da569dd903c8f40b45ca0dae046661c906005eaf",
+                "url": "https://api.github.com/repos/avoo/QcmCoreBundle/zipball/d28949b396732479c83bc5df60ad961444d3e60e",
+                "reference": "d28949b396732479c83bc5df60ad961444d3e60e",
                 "shasum": ""
             },
             "require": {
@@ -141,7 +141,7 @@
                 }
             ],
             "description": "QCM Core bundle for Symfony2",
-            "time": "2015-04-22 09:32:38"
+            "time": "2015-04-23 13:54:01"
         },
         {
             "name": "avoo/qcm-public-bundle",
