@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "202d7672c583d45331ccf29f50e5b7ee",
+    "hash": "c824b4b94f3e752b2c811bb368cc210c",
     "packages": [
         {
             "name": "avoo/qcm-admin-bundle",
@@ -98,16 +98,16 @@
         },
         {
             "name": "avoo/qcm-core-bundle",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/QcmCoreBundle.git",
-                "reference": "e5402d1caf517566663071d91682a550fb7cf44e"
+                "reference": "bc3d370765a2272f13239cf4b233117b08d3f960"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/QcmCoreBundle/zipball/e5402d1caf517566663071d91682a550fb7cf44e",
-                "reference": "e5402d1caf517566663071d91682a550fb7cf44e",
+                "url": "https://api.github.com/repos/avoo/QcmCoreBundle/zipball/bc3d370765a2272f13239cf4b233117b08d3f960",
+                "reference": "bc3d370765a2272f13239cf4b233117b08d3f960",
                 "shasum": ""
             },
             "require": {
@@ -141,7 +141,7 @@
                 }
             ],
             "description": "QCM Core bundle for Symfony2",
-            "time": "2015-04-23 14:30:18"
+            "time": "2015-04-23 16:50:00"
         },
         {
             "name": "avoo/qcm-public-bundle",
